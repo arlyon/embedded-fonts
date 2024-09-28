@@ -16,7 +16,7 @@ required-features = ["build-binary"]
 
 
 [dependencies]
-embedded-graphics = "0.7.1"
+embedded-graphics = "0.8.1"
 # for binary
 bdf-parser = {optional=true, version= "0.1.0" }
 # for binary
